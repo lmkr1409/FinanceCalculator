@@ -9,7 +9,7 @@
 
     <string name="menu_home">Home</string>
     <string name="menu_tax">Tax Calculator</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_emi">EMI Calculator</string>
     <string name="salary">Salary</string>
     <string name="submit">Submit</string>
     <string name="regime_2">Regime 2</string>
@@ -21,4 +21,17 @@
     <string name="tax_regime_2">Regime 2</string>
     <string name="tax_regime_1">Regime 1</string>
     <string name="tax_total_table_end">Total</string>
+
+    <string name="title_activity_tax_results">TaxResultsActivity</string>
+    <string name="tab_text_1">Regime 1</string>
+    <string name="tab_text_2">Regime 2</string>
+    <string name="tax_to_pay">Tax To Pay</string>
+    <string name="tax_deduction_80c">tax_deduction_80C</string>
+    <string name="tax_deduction_80CC">tax_deduction_80CC</string>
+    <string name="tax_deduction_hip">tax_deduction_hip</string>
+    <string name="tax_deduction_hra">tax_deduction_hra</string>
+    <string name="tax_deduction_home_loan">tax_deduction_home_loan</string>
+    <string name="tax_deduction_edu_loan">tax_deduction_edu_loan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
